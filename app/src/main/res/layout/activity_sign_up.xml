@@ -10,7 +10,7 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="kku.tyota.kesiri.easykku.SignUpActivity"
-    android:background="@drawable/wall">
+    android:background="@drawable/wall11">
 
     <LinearLayout
         android:orientation="vertical"
@@ -51,12 +51,11 @@
         android:layout_marginBottom="250dp">
 
         <ImageView
-            android:layout_width="match_parent"
-            android:layout_height="@dimen/icon"
-            app:srcCompat="@drawable/cat2"
+            android:layout_width="154dp"
+            android:layout_height="139dp"
+            app:srcCompat="@drawable/who"
             android:id="@+id/imageView"
-            tools:layout_height="@dimen/icon"
-            android:layout_weight="1" />
+            tools:layout_height="@dimen/icon" />
 
         <LinearLayout
             android:orientation="vertical"
