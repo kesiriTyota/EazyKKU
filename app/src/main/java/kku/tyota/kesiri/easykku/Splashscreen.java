@@ -20,11 +20,8 @@ public class Splashscreen extends AppCompatActivity {
 
 
         //Sound Effect
-
         MediaPlayer mediaPlayer = MediaPlayer.create(getBaseContext(), R.raw.intro_tata);
-
         mediaPlayer.start();
-
 
 
         //Auto Intent
